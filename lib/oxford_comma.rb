@@ -3,4 +3,3 @@ def oxford_comma(array)
   for array.last
   puts array.shift("and #{array.last}")
 end
-end 
